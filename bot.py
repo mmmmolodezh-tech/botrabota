@@ -19,16 +19,17 @@ CONFIG = {
     },
     "offers": {
         "main": [
-            { "text": "🚴 Курьер (Самокат)", "url": "https://samokat.ru/vacancy" },
-            { "text": "📦 OZON (Озон)", "url": "https://job.ozon.ru/" },
-            { "text": "🍔 Повар-кассир / Курьер (Burger King)", "url": "https://burgerking.ru/job" },
-            { "text": "🎒 Курьер (Яндекс.Еда / Лавка)", "url": "https://eda.yandex.ru/job" },
-            { "text": "📱 Подработка в Яндекс Смена", "url": "https://smena.yandex.ru/" },
-            { "text": "🏦 Работа в Т-Банке", "url": "https://www.tbank.ru/career/" },
-            { "text": "🛍️ Купер (ex. СберМаркет)", "url": "https://kuper.ru/job" },
-            { "text": "💳 Альфа-Банк (Доставка карт)", "url": "https://job.alfabank.ru/" },
-            { "text": "🛠️ Сервис «Руки»", "url": "https://hands.ru/job" },
-            { "text": "📦 Яндекс.Маркет (Кладовщики)", "url": "https://market.yandex.ru/partners/job" }
+            { "text": "🚴 Курьер (Самокат)", "url": "https://advt.pro/product/ProductId~01HM6EGR30ZE687GB4FX2BN65B!ExecutorId~01H2GNW7XFVMPFR8WZXVNFVQ3W!UserId~01H2GNW7VHJAVEVP3J6SPZWQ6A!LegacyUserId~2166883?ng_source=profinance&w_source=menu" },
+            { "text": "📦 OZON (Озон)", "url": "https://advt.pro/product/ProductId~01HM6D5EDG75Q00797669NQGVE!ExecutorId~01H2GNW7XFVMPFR8WZXVNFVQ3W!UserId~01H2GNW7VHJAVEVP3J6SPZWQ6A!LegacyUserId~2166883?ng_source=profinance&w_source=menu
+" },
+            { "text": "🍔 Повар-кассир / Курьер (Burger King)", "url": "https://trk.ppdu.ru/click/u5wTT0fS?erid=2SDnjdu6ZqS" },
+            { "text": "🎒 Курьер (Яндекс.Еда / Лавка)", "url": "https://advt.pro/product/ProductId~01HM6F39WYNVS7SKCPFF7KBANC!ExecutorId~01H2GNW7XFVMPFR8WZXVNFVQ3W!UserId~01H2GNW7VHJAVEVP3J6SPZWQ6A!LegacyUserId~2166883?ng_source=profinance&w_source=menu" },
+            { "text": "📱 Подработка в Яндекс Смена", "url": "https://trk.ppdu.ru/click/PXqxZxxE?erid=2SDnjcXP37s" },
+            { "text": "🏦 Работа в Т-Банке", "url": "https://trk.ppdu.ru/click/TcxPTJaz?erid=2SDnjcbs16H" },
+            { "text": "🛍️ Купер (ex. СберМаркет)", "url": "https://trk.ppdu.ru/click/5p4Q25ZL?erid=2SDnjeL6Zwp" },
+            { "text": "💳 Альфа-Банк (Доставка карт)", "url": "https://trk.ppdu.ru/click/wEKysGaM?erid=2SDnjbsvvT3" },
+            { "text": "🛠️ Сервис «Руки»", "url": "https://trk.ppdu.ru/click/HB8Fe9CB?erid=2SDnjceSYW1" },
+            { "text": "📦 Яндекс.Маркет (Кладовщики)", "url": "https://trk.ppdu.ru/click/7q7kAx2a?erid=2SDnjcobEcu" }
         ]
     }
 }
