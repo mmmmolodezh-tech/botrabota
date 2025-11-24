@@ -7,7 +7,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # --- КОНФИГУРАЦИЯ ---
 # Вставьте сюда токен, который дал @BotFather
-TOKEN = "ВАШ_ТОКЕН_ЗДЕСЬ"
+TOKEN = "7989479425:AAHR_3nWCYnGdEb66_VgRnd3YnwJY8ojdAs"
 # Ваш Telegram ID (можно узнать у @userinfobot)
 ADMIN_ID = 123456789
 
