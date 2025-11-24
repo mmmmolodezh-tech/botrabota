@@ -20,8 +20,7 @@ CONFIG = {
     "offers": {
         "main": [
             { "text": "🚴 Курьер (Самокат)", "url": "https://advt.pro/product/ProductId~01HM6EGR30ZE687GB4FX2BN65B!ExecutorId~01H2GNW7XFVMPFR8WZXVNFVQ3W!UserId~01H2GNW7VHJAVEVP3J6SPZWQ6A!LegacyUserId~2166883?ng_source=profinance&w_source=menu" },
-            { "text": "📦 OZON (Озон)", "url": "https://advt.pro/product/ProductId~01HM6D5EDG75Q00797669NQGVE!ExecutorId~01H2GNW7XFVMPFR8WZXVNFVQ3W!UserId~01H2GNW7VHJAVEVP3J6SPZWQ6A!LegacyUserId~2166883?ng_source=profinance&w_source=menu
-" },
+            { "text": "📦 OZON (Озон)", "url": "https://advt.pro/product/ProductId~01HM6D5EDG75Q00797669NQGVE!ExecutorId~01H2GNW7XFVMPFR8WZXVNFVQ3W!UserId~01H2GNW7VHJAVEVP3J6SPZWQ6A!LegacyUserId~2166883?ng_source=profinance&w_source=menu" },
             { "text": "🍔 Повар-кассир / Курьер (Burger King)", "url": "https://trk.ppdu.ru/click/u5wTT0fS?erid=2SDnjdu6ZqS" },
             { "text": "🎒 Курьер (Яндекс.Еда / Лавка)", "url": "https://advt.pro/product/ProductId~01HM6F39WYNVS7SKCPFF7KBANC!ExecutorId~01H2GNW7XFVMPFR8WZXVNFVQ3W!UserId~01H2GNW7VHJAVEVP3J6SPZWQ6A!LegacyUserId~2166883?ng_source=profinance&w_source=menu" },
             { "text": "📱 Подработка в Яндекс Смена", "url": "https://trk.ppdu.ru/click/PXqxZxxE?erid=2SDnjcXP37s" },
